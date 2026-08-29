@@ -1,0 +1,11 @@
+# This is a comment
+name: John Doe
+age: 30
+is_active: true
+skills:
+  - Python
+  - YAML
+  - Docker
+address:
+  city: New York
+  zip: "10001"
